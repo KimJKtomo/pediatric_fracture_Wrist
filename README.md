@@ -1,8 +1,3 @@
----
-
-## ✅ `README.md` (최신)
-
-```markdown
 # 🦴 Pediatric Wrist Fracture Classification (AP / Lateral View)
 
 This repository provides a complete pipeline for classifying pediatric wrist fractures using **ConvNeXtV2**, with models trained separately for:
@@ -91,17 +86,3 @@ python run_all_training_0730.py
 
 Developed by **[KimJKtomo](https://github.com/KimJKtomo)**
 Specialized in pediatric medical AI using multimodal X-ray fracture classification
-
-```
-
----
-
-원하시면 아래 항목도 추가 가능해요:
-
-- `📊 Result Table` (성능 요약 표)
-- `📂 Example Inference Script`
-- `📦 requirements.txt` 자동 생성
-
-필요하시면 말씀 주세요!
-```
-
